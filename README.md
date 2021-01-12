@@ -1,0 +1,2 @@
+# Simply-Stars
+Transformações objetivas.
